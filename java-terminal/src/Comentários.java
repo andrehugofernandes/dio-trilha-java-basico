@@ -2,6 +2,7 @@ public class Comentários {
   public static void main(String[] args) {
 
 }
+
 /*
  * Este método foi elaborado as pressas
  * por isso eu abrevei o nome das variáveisE
